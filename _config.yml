@@ -14,10 +14,11 @@ author: Violaine Andrieux
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  # About Me: "aboutme"
+  Contact: "aboutme"
   Archives:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - <2020>: "404.html"
+    - <2019>: "404.html"
+    - <2018>: "404.html"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
