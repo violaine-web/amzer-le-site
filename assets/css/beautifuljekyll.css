@@ -21,6 +21,7 @@ body {
   background-attachment: fixed;
   {% endif %}
 }
+
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
