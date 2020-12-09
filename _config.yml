@@ -18,7 +18,7 @@ navbar-links:
   Archives:
     - <2020>: "404.html"
     - <2019>: "404.html"
-    - <2018>: "archive"
+    - <2018>: "404.html"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
