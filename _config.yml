@@ -15,10 +15,11 @@ author: Violaine Andrieux
 
 navbar-links:
   Contact: "aboutme"
+  Colonnes: "archive"
   Archives:
     - <2020>: "404.html"
     - <2019>: "404.html"
-    - <2018>: "404.html"
+    - <2018>: "archive"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
