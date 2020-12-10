@@ -9,4 +9,4 @@ Amzer
 29160 Lanvéoc  
   
 06 31 41 49 25  
-violaine@amzer.bzh
+<violaine@amzer.bzh>
