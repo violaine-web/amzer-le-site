@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: <img src="assets/img/avatar-amzer-december.png" alt="Amzer" />
+title: AMZER
 
 # Your name to show in the footer
 author: Violaine Andrieux
@@ -20,11 +20,11 @@ collections:
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Contact: "aboutme"
   Archives:
     - <2020>: "archives2020"
     - <2019>: "archives2019"
     - <2018>: "archives2018"
+  Contact: "aboutme"  
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
