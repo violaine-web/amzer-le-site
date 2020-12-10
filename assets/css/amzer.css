@@ -7,6 +7,36 @@
     color: #515e56;
 }
 
+.nav-link {
+  font-family: komet, sans-serif;
+  font-weight: 100;
+  font-style: normal;', serif;
+}
+
+.navbar-custom {
+  background: #819489;
+}
+
+body {
+  font-family: komet, sans-serif;
+  font-weight: 100;
+  font-style: normal;', serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family:komet, sans-serif;
+  font-weight: 100;
+  font-style: normal;', serif;
+}
+
+body a:link, body a:visited {
+  color: #515e56;
+}
+
+body a:hover {
+  color: black;
+}
+
 .blog-post hr {
     max-width: 25%;
     border-width: 0.25rem;
@@ -22,6 +52,17 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading {
+  font-size: 1.6875rem;
+  line-height: 1.1;
+  display: block;
+  font-family: komet, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  margin: 0.625rem 0 0;
 }
 
 /*
