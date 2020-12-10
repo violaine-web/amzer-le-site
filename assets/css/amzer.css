@@ -1,10 +1,16 @@
 .navbar {
-    padding-left: 4rem;
-    padding-right: 4rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.navbar-brand {
+  font-family: komet, sans-serif;
+  font-weight: 100;
+  font-style: normal;', serif;
 }
 
 .navbar-custom .navbar-nav .nav-link:hover {
-    color: #515e56;
+  color: #515e56;
 }
 
 .nav-link {
