@@ -24,7 +24,7 @@ navbar-links:
     - <2020>: "archives2020"
     - <2019>: "archives2019"
     - <2018>: "archives2018"
-  Associations: "https://associations.amzer.bzh"
+  # Associations: "https://associations.amzer.bzh"
   Contact: "contact"  
   # Author's home: "https://deanattali.com"
 
