@@ -26,7 +26,8 @@ navbar-links:
     - <2019>: "archives2019"
     - <2018>: "archives2018"
   # Associations: "https://associations.amzer.bzh"
-  Contact: "contact"  
+  Contact: "contact" 
+  Surprise: "404" 
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -105,14 +106,14 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#c3a570"
+navbar-col: "#c19a4f"
 navbar-text-col: "#010101"
-navbar-border-col: "#c3a570"
-page-col: "#fcfcf7"
+navbar-border-col: "#c19a4f"
+page-col: "#fdfbf4"
 text-col: "#624f26"
 link-col: "#008080"
 hover-col: "#010101"
-footer-col: "#c3a570"
+footer-col: "#c19a4f"
 footer-text-col: "#010101"
 footer-link-col: "#624f26"
 
