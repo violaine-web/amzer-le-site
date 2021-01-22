@@ -1,4 +1,7 @@
-.navbar {
+---
+---
+
+.blog-post {
   padding-left: 4rem;
   padding-right: 4rem;
 }
@@ -6,7 +9,6 @@
 .navbar-brand {
   font-family: komet, sans-serif;
   font-weight: 100;
-  font-style: normal;', serif;
 }
 
 .navbar-custom .navbar-nav .nav-link:hover {
@@ -16,7 +18,6 @@
 .nav-link {
   font-family: komet, sans-serif;
   font-weight: 100;
-  font-style: normal;', serif;
 }
 
 .navbar-custom {
@@ -26,13 +27,13 @@
 body {
   font-family: komet, sans-serif;
   font-weight: 100;
-  font-style: normal;', serif;
+  
 }
 
 h1,h2,h3,h4,h5,h6 {
   font-family:komet, sans-serif;
   font-weight: 100;
-  font-style: normal;', serif;
+
 }
 
 body a:link, body a:visited {
@@ -51,7 +52,7 @@ body a:hover {
 }
 
 .small {
-    color: #624f26;
+    color: {{ site.text-col }};
 }
 
 .centrer {
