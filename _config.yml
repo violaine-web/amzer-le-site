@@ -9,7 +9,7 @@
 title: AMZER
 
 # Your name to show in the footer
-author: 
+author: Violaine
 # Indispensable à ajouter si on veut que le projet des archives fonctionne !!!
 collections:
   - amzers-2018
@@ -74,7 +74,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Le site du mensuel Amzer
 
 # --- General options --- #
 
