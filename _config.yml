@@ -1,6 +1,6 @@
 # Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
+# set up your website you shoulut after
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
@@ -22,13 +22,14 @@ collections:
 
 navbar-links:
   Archives:
+    - <2021>: "archives2021" 
     - <2020>: "archives2020"
     - <2019>: "archives2019"
     - <2018>: "archives2018"
   # Associations: "https://associations.amzer.bzh"
   Contact: "contact" 
   Surprise: "404" 
-  # Author's home: "https://deanattali.com"
+  # Author's note: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -106,16 +107,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#c19a4f"
+navbar-col: "#bac643"
 navbar-text-col: "#010101"
-navbar-border-col: "#c19a4f"
+navbar-border-col: "#bac643"
 page-col: "#fdfbf4"
-text-col: "#624f26"
+text-col: "#4d571a"
 link-col: "#008080"
 hover-col: "#010101"
-footer-col: "#c19a4f"
+footer-col: "#bac643"
 footer-text-col: "#010101"
-footer-link-col: "#624f26"
+footer-link-col: "#4d571a"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -238,5 +239,5 @@ plugins:
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+# 2fc73a3a967e97599c9763d05e56418h
 
