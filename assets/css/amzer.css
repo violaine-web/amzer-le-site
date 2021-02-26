@@ -12,7 +12,7 @@
 }
 
 .navbar-custom .navbar-nav .nav-link:hover {
-  color: #624f26;
+  color: #4d571a;
 }
 
 .nav-link {
@@ -21,7 +21,7 @@
 }
 
 .navbar-custom {
-  background: #c19a4f;
+  background: #bac643;
 }
 
 body {
@@ -37,7 +37,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 body a:link, body a:visited {
-  color: #624f26;
+  color: #4d571a;
 }
 
 body a:hover {
